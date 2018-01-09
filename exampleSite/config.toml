@@ -1,4 +1,4 @@
-baseurl = "https://example.org"
+baseurl = "https://joyina94.github.io/"
 title = "Universal"
 theme = "hugo-universal-theme"
 themesDir = "../.."
@@ -61,7 +61,7 @@ paginate = 10
 [[menu.topbar]]
     weight = 4
     name = "Email"
-    url = "mailto:your@email.com"
+    url = "mailto:joena94@naver.com"
     pre = "<i class='fa fa-2x fa-envelope'></i>"
 
 [params]
